@@ -1,0 +1,43 @@
+[
+  {
+    "id":"V001",
+    "title": "Introducing Flutter on Windows",
+    "time": "00:45",
+    "views": "1.18M",
+    "thumbnail": "https://res.cloudinary.com/djtpiagbk/image/upload/v1649336906/maxresdefault_dczn11.jpg",
+    "videoUrl": "https://res.cloudinary.com/djtpiagbk/video/upload/v1649336646/Introducing_Flutter_on_Windows_afqxoz.mp4"
+  },
+  {
+    "id":"V002",
+    "title": "StatefulBuilder (Widget of the Week)",
+    "time": "01:24",
+    "views": "27K",
+    "thumbnail": "https://res.cloudinary.com/djtpiagbk/image/upload/v1649336906/maxresdefault_1_mqvmpp.jpg",
+    "videoUrl": "https://res.cloudinary.com/djtpiagbk/video/upload/v1649336645/StatefulBuilder_Widget_of_the_Week_wfialg.mp4"
+  },
+  {
+    "id":"V003",
+    "title": "DropdownButton (Widget of the Week)",
+    "time": "01:27",
+    "views": "40",
+    "thumbnail": "https://res.cloudinary.com/djtpiagbk/image/upload/v1649336906/maxresdefault_2_ezpw4o.jpg",
+    "videoUrl": "https://res.cloudinary.com/djtpiagbk/video/upload/v1649336646/DropdownButton_Widget_of_the_Week_ph14xe.mp4"
+  },
+  {
+    "id":"V004",
+    "title": "get_it (Package of the Week)",
+    "time": "01:20",
+    "views": "68K",
+    "thumbnail": "https://res.cloudinary.com/djtpiagbk/image/upload/v1649336906/maxresdefault_3_hewly0.jpg",
+    "videoUrl": "https://res.cloudinary.com/djtpiagbk/video/upload/v1649336645/get_it_Package_of_the_Week_ldtbnh.mp4"
+  },
+  {
+    "id":"V005",
+    "title": "path_provider (Package of the Week)",
+    "time": "01:43",
+    "views": "35K",
+    "thumbnail": "https://res.cloudinary.com/djtpiagbk/image/upload/v1649336906/maxresdefault_4_u2h0gg.jpg",
+    "videoUrl": "https://res.cloudinary.com/djtpiagbk/video/upload/v1649336646/path_provider_Package_of_the_Week_bqfdcw.mp4"
+  }
+
+]
